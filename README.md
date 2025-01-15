@@ -1,26 +1,26 @@
-# FitLife - Online Fitness Coaching Platform
+# FitLife - virtual sports coaching platform
 
 
 
-The FitLife project aims to create a web application where users can receive online fitness coaching services. This platform provides personalized guidance and support to help users achieve their fitness and healthy lifestyle goals.
+The FitLife project aims to create a web application where users can receive virtual sports coaching platform. This platform provides personalized guidance and support to help users achieve their fitness and healthy lifestyle goals.
 
 ## Introduction
 
-The FitLife project is a web application designed to offer online fitness coaching services. It aims to assist users in achieving their fitness goals by providing personalized workout programs, nutrition plans, and direct communication with experienced trainers.
+The FitLife project is a web application designed to offer virtual sports coaching platform. It aims to assist users in achieving their fitness goals by providing personalized workout programs, nutrition plans, and direct communication with experienced trainers.
 
 ## Technologies Used
 
-- **Programming Languages:** Java Spring, React
+- **Programming Languages:** Java Spring, Mern stack
 - **Database:** Cloud-based relational database service
 - **Web Development:** HTML, CSS, JavaScript
 
 ## Project Screens
 
 1. **Weekly Report Screen:**
-![Weekly Report](https://github.com/silasener/Online-Fitness-Coaching-Platform/assets/105547660/b661aa7b-e321-4a88-9360-780738c92508)
+![Weekly Report](https://github.com/silasener/virtual sports coaching platform/assets/105547660/b661aa7b-e321-4a88-9360-780738c92508)
 
 2. **Daily Report Screen**
-![Daily Report](https://github.com/silasener/Online-Fitness-Coaching-Platform/assets/105547660/05449a7a-f1a1-4878-83fe-f67750db2951)
+![Daily Report](https://github.com/silasener/virtual sports coaching platform/assets/105547660/05449a7a-f1a1-4878-83fe-f67750db2951)
 
 
 ## Project Overview
